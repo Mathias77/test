@@ -1,3 +1,3 @@
 void call() {
-    echo "Hello World from jenkins library!"
+    echo "AIK SM-Guld 2023!"
 }
